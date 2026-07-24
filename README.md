@@ -24,7 +24,7 @@ At adult age, after spending some years in the township, I came to realize that 
 
 When I figured out the relationship, I became an advocate of natural delicacies. Hence when we were asked to come up with a portfolio project, I thought it wise to create a platform that will be solemnly dedicated to nature enthusiasts. Using it as a medium to create awareness and grow people's thoughts and ideas about the importance of going natural in virtually all they consume. 
 
-Sharing the idea with Nnenna one of my team members, she quickly jumped in because she was already running a blog dedicated to natural living called Living Good. (put a link here). And so, the idea was transformed into a web project called NUTsBAY.
+Sharing the idea with Nnenna one of my team members, she quickly jumped in because she was already running a blog dedicated to natural living called Living Good. ([livinggood](https://livinggood.com.ng/)). And so, the idea was transformed into a web project called NUTsBAY.
 
 ## Blog 
 https://medium.com/@ugoem/announcing-the-nutsbay-home-of-nature-enthusiasts-16a0fe11ab71
